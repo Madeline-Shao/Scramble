@@ -1,3 +1,4 @@
+% @author: Madeline Shao
 clear all;
 close all;
 im_name='rdj.jpg';
